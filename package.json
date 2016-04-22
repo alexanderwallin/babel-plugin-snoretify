@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-snoretify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A bit of Snöret in your build pipeline",
   "main": "index.js",
   "scripts": {
